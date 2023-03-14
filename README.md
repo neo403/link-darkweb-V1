@@ -1,6 +1,5 @@
-# link-darkweb-V1
+#Link darkweb .onion akses menggunakan tor browser
 ```sh
-Link darkweb .onion akses menggunakan tor browser
 http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/ – OnionLinks v3
 http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/ – The Hidden Wiki
 http://2jwcnprqbugvyi6ok2h2h7u26qc6j5wxm7feh3znlh2qu3h6hjld4kyd.onion/ – Another Hidden Wiki
